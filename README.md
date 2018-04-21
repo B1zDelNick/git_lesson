@@ -8,7 +8,7 @@
 
 ```
 {
-    "name": "Andrei",
+    "name": "Andrei V",
     "task": "Work harder",
     "data": ["1", "2", "3"]
 }
