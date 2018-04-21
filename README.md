@@ -7,6 +7,7 @@
 
 ```
 {
-    "name": "Andrei"
+    "name": "Andrei",
+    "task": "Work harder"
 }
 ```
